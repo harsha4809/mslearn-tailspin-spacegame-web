@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/harshareddycloud11220999/Space%20Game%20-%20web/_apis/build/status/harsha4809.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/harshareddycloud11220999/Space%20Game%20-%20web/_build/latest?definitionId=4&branchName=build-pipeline)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
